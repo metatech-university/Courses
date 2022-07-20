@@ -16,6 +16,6 @@
 
 ## Традиционные специальности
 
-- [Бекенд разработчик](knowledge/Backend.md)
-- [Фронтенд разработчик](knowledge/Frontend.md)
-- [Инженер-программист](knowledge/Engineer.md)
+- [`Бекенд разработчик`](knowledge/Backend.md)
+- [`Фронтенд разработчик`](knowledge/Frontend.md)
+- [`Инженер-программист`](knowledge/Engineer.md)
